@@ -7,9 +7,9 @@ Usage
 How to clone the code
 ---------------------
 
-.. code-block:: bash
+::
 
-git clone https://github.com/Yavapai13/word-count
+$ git clone https://github.com/Yavapai13/word-count
 
 
 Make
